@@ -2,7 +2,16 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
+      <entry key="DiceRollerActivityTest">
+        <State />
+      </entry>
       <entry key="app">
+        <State />
+      </entry>
+      <entry key="testLowerLimitsOfScore()">
+        <State />
+      </entry>
+      <entry key="testScoreOnRotation()">
         <State />
       </entry>
     </value>
